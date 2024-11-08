@@ -5,8 +5,8 @@ This repository contains comprehensive test cases and bug reports for the Lamafi
 Lamafilia is a mobile shopping application offering a wide selection of fashion items. This project focuses on quality assurance through detailed testing to identify and document any potential issues that may affect the user experience.
 
 ## 📝 Contents
-- **Assignment - Bugs Report.xlsx**: Includes detailed bug reports with descriptions, steps to reproduce, expected vs. actual results, and severity levels.
-- **Assignment - Create Test Case.xlsx**: Contains test cases designed to cover the core functionalities of the application, including login, search, product browsing, and checkout.
+- ** Bugs Report.xlsx**: Includes detailed bug reports with descriptions, steps to reproduce, expected vs. actual results, and severity levels.
+- ** Create Test Case.xlsx**: Contains test cases designed to cover the core functionalities of the application, including login, search, product browsing, and checkout.
 
 ## 🔍 Testing Scope
 - **Functional Testing**: Ensures that all app features function correctly, including user registration, login, and product ordering.
